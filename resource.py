@@ -1,1 +1,2 @@
-api_key = "7109fdb7138035e7274a91ec2c86432a"
+api_key = "a2cbe458bc9c3b25a6f297f0b051dc7f"
+g_api_key = "AIzaSyAEM6VEK654py-GvVY5JKHkAYr0HLDLmFE"
